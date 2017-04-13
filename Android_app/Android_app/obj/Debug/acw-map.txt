@@ -1,0 +1,12 @@
+Android_app.MainActivity, Android_app;md5b8644c4dfe76aac2fdb93b33ff0750ef.MainActivity
+Android_app.MainActivity, Android_app, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8644c4dfe76aac2fdb93b33ff0750ef.MainActivity
+Android_app.MainActivity;md5b8644c4dfe76aac2fdb93b33ff0750ef.MainActivity
+android_app.MainActivity;md5b8644c4dfe76aac2fdb93b33ff0750ef.MainActivity
+Android_app.Scale_Image, Android_app;md5b8644c4dfe76aac2fdb93b33ff0750ef.Scale_Image
+Android_app.Scale_Image, Android_app, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8644c4dfe76aac2fdb93b33ff0750ef.Scale_Image
+Android_app.Scale_Image;md5b8644c4dfe76aac2fdb93b33ff0750ef.Scale_Image
+android_app.Scale_Image;md5b8644c4dfe76aac2fdb93b33ff0750ef.Scale_Image
+Android_app.SecondActivity, Android_app;md5b8644c4dfe76aac2fdb93b33ff0750ef.SecondActivity
+Android_app.SecondActivity, Android_app, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8644c4dfe76aac2fdb93b33ff0750ef.SecondActivity
+Android_app.SecondActivity;md5b8644c4dfe76aac2fdb93b33ff0750ef.SecondActivity
+android_app.SecondActivity;md5b8644c4dfe76aac2fdb93b33ff0750ef.SecondActivity
